@@ -1,0 +1,22 @@
+{
+  "name": "andy-best-frand",
+  "version": "1.0.0",
+  "description": "silly website to show andy how great things are",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeroywking/andy-best-frand.git"
+  },
+  "author": "lee-roy king",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeroywking/andy-best-frand/issues"
+  },
+  "homepage": "https://github.com/leeroywking/andy-best-frand#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
