@@ -4,7 +4,8 @@
   "description": "silly website to show andy how great things are",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start":"node index.js"
   },
   "repository": {
     "type": "git",
