@@ -9,6 +9,6 @@ app.listen(PORT, () => {
 })
 
 app.get('/', (req,res) =>{
-    res.status(200).send('Andy is #1 best friend, Hunter is number 2 best frand')
+    res.status(200).send('<h1>Andy is #1 best friend, Hunter is number 2 best frand</h1>')
 });
 
